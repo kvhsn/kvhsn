@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <section className="py-10" id="contact">
-      <div className="relative rounded-3xl p-8 md:p-16 border border-slate-200 dark:border-white/5 overflow-hidden bg-white dark:bg-surface-dark shadow-xl dark:shadow-none flex flex-col items-center text-center">
+      <div className="relative rounded-2xl sm:rounded-3xl p-5 sm:p-8 md:p-16 border border-slate-200 dark:border-white/5 overflow-hidden bg-white dark:bg-surface-dark shadow-xl dark:shadow-none flex flex-col items-center text-center">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-primary/5 dark:bg-primary/10 rounded-full blur-[80px] pointer-events-none"></div>
 
         <div className="relative z-10 flex flex-col items-center max-w-2xl">
@@ -9,18 +9,18 @@ export default function Contact() {
             <span className="material-symbols-outlined text-3xl">mail</span>
           </div>
 
-          <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 dark:text-white mb-6">
+          <h2 className="text-2xl sm:text-4xl md:text-5xl font-bold tracking-tight text-slate-900 dark:text-white mb-6">
             Let's build something together.
           </h2>
 
-          <p className="text-lg text-slate-600 dark:text-slate-400 mb-10 leading-relaxed">
+          <p className="text-sm sm:text-lg text-slate-600 dark:text-slate-400 mb-10 leading-relaxed">
             I'm currently open to freelance missions and new opportunities —
             whether it's a frontend-heavy project, a B2C challenge, or a team
             that cares about Developer Experience. Let's talk.
           </p>
 
           <a
-            className="text-2xl md:text-3xl font-bold text-slate-900 dark:text-white hover:text-primary dark:hover:text-primary transition-colors border-b-2 border-primary/20 hover:border-primary pb-1 mb-12"
+            className="text-base sm:text-2xl md:text-3xl font-bold text-slate-900 dark:text-white hover:text-primary dark:hover:text-primary transition-colors border-b-2 border-primary/20 hover:border-primary pb-1 mb-12 break-all sm:break-normal"
             href="mailto:kevinhassan.pro@gmail.com"
           >
             kevinhassan.pro@gmail.com
