@@ -16,22 +16,18 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./kvhsn
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version-file: .nvmrc
+          node-version: '20'
           cache: npm
-          cache-dependency-path: kvhsn/package-lock.json
       - run: npm ci
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: kvhsn/dist
+          path: dist
 
   deploy:
     needs: build
