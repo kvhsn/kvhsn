@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 
@@ -41,6 +42,7 @@
 ---
 
 <!-- ABOUT ME -->
+
 ## 👋 About Me
 
 I'm a **Fullstack Software Engineer** with 5+ years of experience, based in **Montpellier, France** ☀️
@@ -52,6 +54,7 @@ I'm rigorous, passionate about frontend development, and always looking for opti
 ### 🚀 Open for Freelance
 
 I'm currently available for **freelance missions** — especially around:
+
 - Frontend development & architecture (React, Next.js, Vue.js)
 - Angular to React migrations
 - Developer Experience improvements & tooling
@@ -62,9 +65,11 @@ I'm currently available for **freelance missions** — especially around:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TECH STACK -->
+
 ## 🛠 Tech Stack
 
 ### Frontend
+
 [![React][React.js]][React-url]
 [![Next][Next.js]][Next-url]
 [![Vue][Vue.js]][Vue-url]
@@ -72,16 +77,19 @@ I'm currently available for **freelance missions** — especially around:
 [![TypeScript][TypeScript]][TypeScript-url]
 
 ### Backend
+
 [![Node.js][Node.js]][Node-url]
 [![Scala][Scala]][Scala-url]
 
 ### Tools & Infra
+
 [![Docker][Docker]][Docker-url]
 [![Git][Git]][Git-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CURRENT FOCUS -->
+
 ## 🔭 Current Focus
 
 - Migrating large-scale frontends from **Angular to React**
@@ -92,9 +100,11 @@ I'm currently available for **freelance missions** — especially around:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- COLLABORATION -->
+
 ## 👯 Collaboration
 
 I'm open to collaborating on **open source projects** related to:
+
 - Frontend tooling & DX
 - React ecosystem
 - AI-powered developer tools
@@ -104,9 +114,11 @@ If you have an interesting project, feel free to reach out!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- OUTSIDE OF CODE -->
+
 ## 🏃 Outside of Code
 
 When I'm not coding, you'll find me:
+
 - 🚴 Cycling
 - 🏋️ Weightlifting
 - 🏃 Running
@@ -116,6 +128,7 @@ When I'm not coding, you'll find me:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## 📫 Contact
 
 Kévin Hassan — [LinkedIn](https://fr.linkedin.com/public-profile/in/kevin-hassan) — kevinhassan.pro@gmail.com
@@ -123,6 +136,7 @@ Kévin Hassan — [LinkedIn](https://fr.linkedin.com/public-profile/in/kevin-has
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GITHUB STATS -->
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -144,6 +158,7 @@ Kévin Hassan — [LinkedIn](https://fr.linkedin.com/public-profile/in/kevin-has
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0A66C2
 [linkedin-url]: https://fr.linkedin.com/public-profile/in/kevin-hassan
 [gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=D14836
