@@ -13,14 +13,14 @@ export interface Job {
 
 export default function JobCard({ job }: { job: Job }) {
   return (
-    <div className="flex-1 min-w-[280px] flex flex-col ">
+    <div className="flex-1 min-w-[280px] flex flex-col group">
       <TimelineDot job={job} />
 
       <div
         className={`p-8 rounded-xl border transition-all hover:-translate-y-1 flex-1 ${
           job.isCurrent
             ? 'bg-white dark:bg-primary/5 border-primary/30 shadow-lg shadow-primary/10 ring-1 ring-primary/10'
-            : 'bg-white dark:bg-[#161e2c]/60 border-slate-200 dark:border-white/5 shadow-sm dark:shadow-none'
+            : 'bg-white dark:bg-surface-dark/60 border-slate-200 dark:border-white/5 shadow-sm dark:shadow-none'
         } group-hover:border-primary/30 group-hover:shadow-xl`}
       >
         <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-1">

@@ -5,10 +5,10 @@ const jobs: Job[] = [
     period: 'Oct 2025 - Present',
     location: 'Montpellier',
     title: 'Fullstack Engineer',
-    company: 'Teads — Demand Platform',
+    company: 'Teads — Demand Platform — Core Lane',
     description:
-      'Contributing to core frontend migration from Angular legacy to modern React. Improving Developer Experience through tooling and AI dev tools.',
-    tags: ['React', 'Angular', 'TypeScript', 'DX'],
+      'Contributing to core frontend migration from legacy Angular to modern React. Improving DX via enhanced tooling and documentation. Driving productivity through AI dev tools (Cursor, Claude).',
+    tags: ['React', 'Angular', 'RxJS', 'Redux', 'Node.js', 'Scala'],
     icon: 'apartment',
     isCurrent: true,
   },
@@ -25,7 +25,7 @@ const jobs: Job[] = [
   },
   {
     period: 'Mar 2020 - Jul 2021',
-    location: 'Paris',
+    location: 'Montpellier',
     title: 'Frontend Engineer',
     company: 'Frog (Molotov.tv)',
     description:
@@ -36,7 +36,7 @@ const jobs: Job[] = [
   },
   {
     period: 'Sep 2019 - Feb 2020',
-    location: 'Paris',
+    location: 'Montpellier',
     title: 'iOS Lead Developer',
     company: 'Frog (for Capgemini)',
     description:

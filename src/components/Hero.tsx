@@ -21,8 +21,11 @@ export default function Hero() {
         </h1>
 
         <p className="text-lg text-slate-600 dark:text-slate-400 max-w-lg leading-relaxed font-medium">
-          I'm Kevin Hassan, a Fullstack Software Engineer passionate about
-          Frontend &amp; Developer Experience. Based in Montpellier, France.
+          I'm Kevin Hassan, a Fullstack Software Engineer —
+          <br />
+          Frontend/DX &amp; AI Enthusiast.
+          <br />
+          Based in Montpellier, France. 🇫🇷
         </p>
 
         <div className="flex flex-wrap gap-4 pt-4">
@@ -36,7 +39,7 @@ export default function Hero() {
             </span>
           </a>
           <a
-            href="/Kevin_Hassan_CV_2025.pdf"
+            href="/Kevin_Hassan_CV_2026.pdf"
             download
             className="h-12 px-8 rounded-lg bg-white dark:bg-surface-dark border border-slate-200 dark:border-white/10 hover:border-slate-300 dark:hover:border-white/20 text-slate-900 dark:text-white font-semibold transition-all flex items-center gap-2 hover:bg-slate-50 dark:hover:bg-white/5"
           >
@@ -87,10 +90,7 @@ export default function Hero() {
       <div className="relative order-1 lg:order-2 h-full flex justify-center lg:justify-end">
         <div className="relative w-full max-w-[500px] aspect-4/5 rounded-2xl overflow-hidden group shadow-2xl dark:shadow-none">
           <div className="absolute -inset-4 bg-linear-to-tr from-primary/30 to-purple-500/30 rounded-4xl blur-2xl opacity-40 group-hover:opacity-60 transition-opacity duration-500"></div>
-          <div
-            className="relative h-full w-full bg-slate-100 dark:bg-surface-dark rounded-2xl border border-slate-200 dark:border-white/10 overflow-hidden bg-cover bg-center"
-            style={{ backgroundImage: "url('/portrait.jpg')" }}
-          >
+          <div className="relative h-full w-full bg-slate-100 dark:bg-surface-dark rounded-2xl border border-slate-200 dark:border-white/10 overflow-hidden bg-cover bg-center">
             <div className="absolute inset-2 bg-linear-to-t from-white/60 dark:from-slate-900/80 via-transparent to-transparent dark:opacity-80">
               <img
                 src="/portrait.png"
@@ -109,7 +109,7 @@ export default function Hero() {
                   Currently working at
                 </p>
                 <p className="text-sm font-bold text-slate-900 dark:text-white">
-                  Teads — Demand Platform
+                  Teads — Demand Platform — Core Lane
                 </p>
               </div>
             </div>
