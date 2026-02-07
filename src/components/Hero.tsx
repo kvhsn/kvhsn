@@ -85,8 +85,8 @@ export default function Hero() {
 
       {/* Portrait */}
       <div className="relative order-1 lg:order-2 h-full flex justify-center lg:justify-end">
-        <div className="relative w-full max-w-[500px] aspect-[4/5] rounded-2xl overflow-hidden group shadow-2xl dark:shadow-none">
-          <div className="absolute -inset-4 bg-linear-to-tr from-primary/30 to-purple-500/30 rounded-[2rem] blur-2xl opacity-40 group-hover:opacity-60 transition-opacity duration-500"></div>
+        <div className="relative w-full max-w-[500px] aspect-4/5 rounded-2xl overflow-hidden group shadow-2xl dark:shadow-none">
+          <div className="absolute -inset-4 bg-linear-to-tr from-primary/30 to-purple-500/30 rounded-4xl blur-2xl opacity-40 group-hover:opacity-60 transition-opacity duration-500"></div>
           <div
             className="relative h-full w-full bg-slate-100 dark:bg-surface-dark rounded-2xl border border-slate-200 dark:border-white/10 overflow-hidden bg-cover bg-center"
             style={{ backgroundImage: "url('/portrait.jpg')" }}
@@ -99,7 +99,7 @@ export default function Hero() {
               />
             </div>
           </div>
-          <div className="absolute bottom-8 left-8 right-8 p-4 bg-white/90 dark:bg-[#161e2c]/80 backdrop-blur-md rounded-lg border border-slate-200 dark:border-white/10 transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 shadow-lg">
+          <div className="absolute bottom-8 left-8 right-8 p-4 bg-white/90 dark:bg-surface-dark/80 backdrop-blur-md rounded-lg border border-slate-200 dark:border-white/10 transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 shadow-lg">
             <div className="flex items-center gap-3">
               <div className="p-2 rounded-md bg-primary/20 text-primary">
                 <span className="material-symbols-outlined">code</span>
