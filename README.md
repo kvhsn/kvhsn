@@ -55,7 +55,7 @@ I'm rigorous, passionate about fullstack development, and always looking for opt
 
 I'm currently available for **freelance missions** — especially around:
 
-- Frontend development & architecture (React, Next.js, Vue.js)
+- Fullstack JavaScript (React, Next.js, Vue.js, Nodejs)
 - Angular to React migrations
 - Developer Experience improvements & tooling
 - AI-integrated development workflows
