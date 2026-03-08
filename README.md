@@ -45,11 +45,11 @@
 
 ## 👋 About Me
 
-I'm a **Fullstack Software Engineer** with 5+ years of experience, based in **Montpellier, France** ☀️
+I'm a **Fullstack Software Engineer** with 6+ years of experience, based in **Montpellier, France** ☀️
 
 Currently working at **[Teads](https://www.teads.com/)** on the Demand Platform team, where I contribute to migrating core frontend software from Angular to React, improve Developer Experience globally, and leverage AI tools to ship better software faster.
 
-I'm rigorous, passionate about frontend development, and always looking for optimal solutions.
+I'm rigorous, passionate about fullstack development, and always looking for optimal solutions.
 
 ### 🚀 Open for Freelance
 
@@ -96,6 +96,7 @@ I'm currently available for **freelance missions** — especially around:
 - Improving **Developer Experience** and tooling at scale
 - Exploring **AI-assisted development** workflows
 - Diving deeper into **React 19** and its new patterns
+- Building my first react-native application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +106,7 @@ I'm currently available for **freelance missions** — especially around:
 
 I'm open to collaborating on **open source projects** related to:
 
-- Frontend tooling & DX
+- Fullstack JavaScript
 - React ecosystem
 - AI-powered developer tools
 
