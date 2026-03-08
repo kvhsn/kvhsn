@@ -13,7 +13,7 @@
   <h1 align="center">Kévin Hassan</h1>
 
   <p align="center">
-    🇫🇷 Fullstack Software Engineer · Frontend & DX Enthusiast · Open for Freelance 🟢
+    🇫🇷 Fullstack Software Engineer · Open for Freelance 🟢
     <br />
     <br />
     <a href="https://fr.linkedin.com/public-profile/in/kevin-hassan"><strong>LinkedIn »</strong></a>
