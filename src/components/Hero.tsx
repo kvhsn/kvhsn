@@ -17,7 +17,7 @@ export default function Hero() {
         </div>
 
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black leading-[1.1] tracking-tight text-transparent bg-clip-text bg-linear-to-r from-slate-900 via-primary to-blue-400 dark:from-white dark:via-primary dark:to-blue-400">
-          Building digital excellence.
+          Fullstack Development, AI-Powered.
         </h1>
 
         <p className="text-lg text-slate-600 dark:text-slate-400 max-w-lg leading-relaxed font-medium">
