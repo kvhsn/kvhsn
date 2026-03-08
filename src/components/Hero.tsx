@@ -21,7 +21,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-lg text-slate-600 dark:text-slate-400 max-w-lg leading-relaxed font-medium">
-          I'm Kevin Hassan, a +6-year Fullstack Software Engineer | Accelerating delivery with AI
+          I'm Kevin Hassan, a 6+ years Fullstack Software Engineer | Accelerating delivery with AI
           <br />
           Based in Montpellier, France. 🇫🇷
         </p>
