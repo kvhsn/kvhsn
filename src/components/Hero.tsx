@@ -50,7 +50,7 @@ export default function Hero() {
         <div className="flex flex-wrap items-center gap-8 pt-8 border-t border-slate-200 dark:border-white/5 mt-4">
           <div className="flex flex-col">
             <span className="text-3xl font-bold text-slate-900 dark:text-white">
-              7+
+              6+
             </span>
             <span className="text-xs text-slate-500 uppercase tracking-wider font-semibold">
               Years Exp
